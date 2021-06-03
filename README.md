@@ -9,7 +9,9 @@ I enjoy contributing to open source and i am enthusiastic about learning new tec
 
 Outside the world of technology I enjoy making and consuming music,though I dont share them to the world.
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
+You can also find me on :
+
 [![linkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devmuangi/)
 
 <!--
