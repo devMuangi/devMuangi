@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I am a crossplatform developer specializing in **front end web developement**.
+
+
+I enjoy building stuff and displaying them to the internet.
+
+I enjoy contributing to open source and i am enthusiastic about learning new technology.
+
+Outside the world of technology I enjoy making and consuming music,though I dont share them to the world.
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devmuangi/)
+
 <!--
 **devMuangi/devMuangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
