@@ -3,14 +3,14 @@
 I am a crossplatform developer specializing in **front end web developement**.
 
 
-I enjoy building stuff and displaying them to the internet.
+I enjoy developing web applications and displaying them on the internet.
 
 I enjoy contributing to open source and i am enthusiastic about learning new technology.
 
-Outside the world of technology I enjoy making and consuming music,though I dont share them to the world.
+Outside the world of software development, I enjoy making and consuming music.
 
 
-You can also find me on :
+My **LinkedIn** 
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devmuangi/)
 
