@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a crossplatform developer specializing in **front end web developement**.
+I am a crossplatform developer with experience in fullstack web development.
 
 
 I enjoy developing web applications and displaying them on the internet.
